@@ -1,0 +1,13 @@
+@font-face {
+    font-family: raleway_light;
+    src: url("Raleway/Raleway-Light.ttf");
+}
+
+.Test {
+    font-family: raleway_light;
+    text-transform: uppercase;
+    letter-spacing: 1rem;
+    margin: 0 0 0.25em 0;
+    font-size: 4em;
+    padding: 3em 3em 1em 3em;
+}
