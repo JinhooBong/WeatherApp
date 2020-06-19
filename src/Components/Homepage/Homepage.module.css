@@ -11,3 +11,38 @@
     font-size: 4em;
     padding: 3em 3em 1em 3em;
 }
+
+.InputBox {
+    width: 40vw;
+    margin: auto;
+    background-color: #fff;
+    color: #636363;
+    border-radius: 0.5em;
+    padding: 3em 2em 3em 2em;
+}
+
+
+.Title {
+    font-family: raleway_light;
+    text-align: left;
+    font-size: 1.5em;
+    line-height: 1.5;
+    font-weight: 300;
+    margin: 0 0 0.7em 0;
+    letter-spacing: -0.025em;
+}
+
+.Input {
+    font-family: raleway_light;
+    background-color: rgba(222,222,222,0.25);
+    border-color: #ddd;
+    color: #636363;
+    height: 2.75em;
+    border-radius: 8px;
+    border: solid 1px;
+    display: block;
+    outline: 0;
+    padding: 0 1em;
+    text-decoration: none;
+    width: 85%;
+}
